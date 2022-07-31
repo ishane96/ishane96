@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ishane96
 - 👀 I’m interested in iOS development
-- 🌱 I’m currently learning Programming :D
 - 📫 How to reach me https://www.linkedin.com/in/achintha-kahawalage/
 
 <!---
